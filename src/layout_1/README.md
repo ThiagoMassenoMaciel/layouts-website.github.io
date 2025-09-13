@@ -4,7 +4,7 @@
 ### Front-end
 ###### terá uma sessão no site ecommerse parecido com o design do aplicativo da meliuz"ou futuramente se espelhar na ui do app lojas renner" contendo tipo uma anuncio dos proprio site mostrando as ofertas
 ###### esta sessão deverá ter elementos que serão dinâmicos de acordo com o que o proprietário escolher
-
+![]()
 
 ## mais ideias 
 ###### quem criar loguin no site terá cupons de desconto
